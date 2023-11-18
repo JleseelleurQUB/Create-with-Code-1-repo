@@ -2928,7 +2928,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7d09d042e6535b748ae15e83df2e4e0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 18
+  horsePower: 20000
   turnSpeed: 40
 --- !u!54 &1692741070
 Rigidbody:
