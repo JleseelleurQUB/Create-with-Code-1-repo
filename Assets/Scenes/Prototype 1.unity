@@ -3515,6 +3515,11 @@ MonoBehaviour:
   turnSpeed: 25
   rpm: 0
   centreOfMass: {fileID: 2135306865}
+  allWheels:
+  - {fileID: 1139106971}
+  - {fileID: 1679788757}
+  - {fileID: 704966746}
+  - {fileID: 282143001}
   speedometerText: {fileID: 1538812871}
   rpmText: {fileID: 1407178547}
 --- !u!54 &1692741070
